@@ -2,7 +2,7 @@
 Group Project for CPSC-332 at Cal State Fullerton
 
 # Contributors:
-Jason Tran, Ethan Luu, and Benjamin Yang
+Ethan Luu, Jason Tran, and Benjamin Yang
 
 # Main Objective: 
 Allow users of our website to register a profile, retrieve information about cars available for rent, as well as grant them the option to rent them at hourly rates. 

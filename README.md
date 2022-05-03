@@ -1,5 +1,5 @@
 # Car_Rental_Project
-Group Project for CPSC-332 at Cal State Fullerton
+This was a group project for CPSC-332 at Cal State Fullerton
 
 # Contributors:
 Ethan Luu, Jason Tran, and Benjamin Yang

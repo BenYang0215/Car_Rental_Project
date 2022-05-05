@@ -1,11 +1,8 @@
 # Car_Rental_Project
-This was a group project for CPSC-332 at Cal State Fullerton
+This was a group project for CPSC-332 at Cal State Fullerton. The website implements CSS, HTML, PHP, and SQL to create a functional website that allows users to signup/login, browse through a selection of cars, and "rent" them if desired.
 
 # Contributors:
 Ethan Luu, Jason Tran, and Benjamin Yang
-
-# Main Objective: 
-Allow users of our website to register a profile, retrieve information about cars available for rent, as well as grant them the option to rent them at hourly rates. 
 
 # System Requirements: 
 The system shall provide an interface to look through a catalog of available cars to rent. 
